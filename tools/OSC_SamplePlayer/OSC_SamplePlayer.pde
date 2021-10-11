@@ -10,7 +10,7 @@ void setup() {
   background(255);
 
 
-  oscP5 = new OscP5(this, 8000);
+  oscP5 = new OscP5(this, 12000);
 
 
 
